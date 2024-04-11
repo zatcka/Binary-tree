@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azat-\\source\\repos\\Project4chNew2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100B4A27-9052-454A-AC8A-03A25DBD6B0C}|Project4chNew2\\Project4chNew2.vcxproj|C:\\Users\\azat-\\source\\repos\\Project4chNew2\\Project4chNew2\\chNew2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{100B4A27-9052-454A-AC8A-03A25DBD6B0C}|Project4chNew2\\Project4chNew2.vcxproj|solutionrelative:Project4chNew2\\chNew2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chNew2.c",
+              "DocumentMoniker": "C:\\Users\\azat-\\source\\repos\\Project4chNew2\\Project4chNew2\\chNew2.c",
+              "RelativeDocumentMoniker": "Project4chNew2\\chNew2.c",
+              "ToolTip": "C:\\Users\\azat-\\source\\repos\\Project4chNew2\\Project4chNew2\\chNew2.c",
+              "RelativeToolTip": "Project4chNew2\\chNew2.c",
+              "ViewState": "AQIAAE8CAAAAAAAAAAAAAHgCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T14:43:14.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

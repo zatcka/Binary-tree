@@ -1,0 +1,8 @@
+﻿  chNew2.c
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(373,72): warning C4244: функция: преобразование "double" в "long", возможна потеря данных
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(423,68): warning C4244: функция: преобразование "double" в "long", возможна потеря данных
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(544,18): warning C4101: dliaVida2: неиспользованная локальная переменная
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(544,8): warning C4101: dliaVida: неиспользованная локальная переменная
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(37,1): warning C4715: poiskSleduschego: значение возвращается не при всех путях выполнения
+C:\Users\azat-\source\repos\Project4chNew2\Project4chNew2\chNew2.c(538,1): warning C4716: mainnn: должна возвращать значение
+  Project4chNew2.vcxproj -> C:\Users\azat-\source\repos\Project4chNew2\x64\Debug\Project4chNew2.exe
